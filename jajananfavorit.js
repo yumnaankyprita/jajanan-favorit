@@ -2,7 +2,7 @@ const jajanan1 = "Piscok";
 const jajanan2 = "Churros";
 const jajanan3 = "Cilok";
 const jajanan4 = "Cimol";
-const jajanan5 = "Cireng";
+const jajanan5 = "Nagasari";
 
 console.log("Daftar Jajanan Favorit Saya:");
 console.log("1. " + jajanan1);
