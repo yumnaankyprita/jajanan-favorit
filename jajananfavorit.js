@@ -1,6 +1,6 @@
 const jajanan1 = "Piscok";
 const jajanan2 = "Churros";
-const jajanan3 = "Cilok";
+const jajanan3 = "Jenang";
 const jajanan4 = "Cimol";
 const jajanan5 = "Cireng";
 
