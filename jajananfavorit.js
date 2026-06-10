@@ -1,4 +1,4 @@
-const jajanan1 = "Piscok";
+const jajanan1 = "Siomay";
 const jajanan2 = "Churros";
 const jajanan3 = "Cilok";
 const jajanan4 = "Cimol";
